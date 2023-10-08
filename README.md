@@ -1,2 +1,2 @@
 # Rajashekhar Maduri
- This is my dirst Git Repository
+ This is my first Git Repository
